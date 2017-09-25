@@ -1,28 +1,10 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 10 : Deployment to Azure
-=====================================
-
-## To Submit this Assignment
-- fork this repository
-- write all of your code in a directory named `lab-#`; + `<your name>` **e.g.** `lab10-amanda`
-- push to your repository
-- submit a pull request to this repository
-- submit a link to your PR in canvas
-
-## Directions
-- Continuing with the application from Day 09:
-    -  Following the steps in class, deploy your applicaiton onto Azure
-    -  (+2 bonus) Add a custom error page w/ HTML and CSS dressings 
-
-
 ## ReadMe
 - Your readme should include the following information:
 	- How long did it take you to complete this assignment?
+		I dunno, like, 15 minutes.
 	- What did you struggle with? Why? How did you solve?
+		Getting signed up for the Azure web services. I solved by borrowing my father's card for verification.
 	- What did you learn during this assignment?
+		I learned how to right click on things and select Publish.
     - What resources did you utilize for this assingment?
-  
-
-## Rubric
-- 3pts: Application runs without any errors
-- 5pts: Deploy to Azure
-- 2pts: Readme included with answers to questions
+		The internets. Documentation existed, which helped me set up continuous deployment settings.
