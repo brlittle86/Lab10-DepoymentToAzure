@@ -1,0 +1,11 @@
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\bin\Release\netcoreapp2.0\DeploymentDemo.deps.json
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\bin\Release\netcoreapp2.0\DeploymentDemo.runtimeconfig.json
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\bin\Release\netcoreapp2.0\DeploymentDemo.runtimeconfig.dev.json
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\bin\Release\netcoreapp2.0\DeploymentDemo.dll
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\bin\Release\netcoreapp2.0\DeploymentDemo.pdb
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\obj\Release\netcoreapp2.0\DeploymentDemo.csprojResolveAssemblyReference.cache
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\obj\Release\netcoreapp2.0\DeploymentDemo.csproj.CoreCompileInputs.cache
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\obj\Release\netcoreapp2.0\DeploymentDemo.AssemblyInfoInputs.cache
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\obj\Release\netcoreapp2.0\DeploymentDemo.AssemblyInfo.cs
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\obj\Release\netcoreapp2.0\DeploymentDemo.dll
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo\obj\Release\netcoreapp2.0\DeploymentDemo.pdb

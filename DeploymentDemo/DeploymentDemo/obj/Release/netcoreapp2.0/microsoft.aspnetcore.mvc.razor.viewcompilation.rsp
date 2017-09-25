@@ -1,0 +1,5 @@
+C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=DeploymentDemo
+--content-root=C:\Users\akure\Source\Repos\Lab10-DepoymentToAzure\DeploymentDemo\DeploymentDemo
+--file=
